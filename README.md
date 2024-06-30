@@ -37,4 +37,35 @@ This repository contains a project titled "Automated SQL Generation with OpenAI"
    
    Open the `Ammar Ahmed.ipynb` notebook in Jupyter and run the cells to generate SQL queries based on natural language descriptions.
 
-   
+   ## Usage
+
+The notebook is designed to be straightforward:
+
+1. **Run the Setup Cell**: This installs all the necessary libraries.
+2. **Set Up Your API Key**: Ensure `api.txt` is present and contains your valid OpenAI API key.
+3. **Use the Provided Functions**: The notebook contains functions to generate SQL queries, execute them, and display results and optimizations.
+
+
+## Example Table Data
+
+The project works with a hypothetical `employees` database. Here's an example of the table schema used for generating and executing SQL queries:
+
+```plaintext
+Table: employees
+Columns:
+- ID INT
+- FirstName VARCHAR
+- LastName VARCHAR
+- Department VARCHAR
+- Salary INT
+```
+
+This schema is used within the notebook to illustrate how SQL queries are generated and executed based on natural language questions.
+
+## Contributing
+
+Contributions to the `automated-sql-generation-openai` project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
