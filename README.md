@@ -2,6 +2,19 @@
 
 This repository contains a project titled "Automated SQL Generation with OpenAI", which leverages OpenAI's GPT models to automatically generate SQL queries based on natural language questions. The core functionality is encapsulated in a Jupyter Notebook, making it a self-contained solution for generating SQL queries for various tasks.
 
+## Table of Contents
+
+- [Automated SQL Generation with OpenAI](#automated-sql-generation-with-openai)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+  - [Usage](#usage)
+  - [Example Table Data](#example-table-data)
+  - [Contributing](#contributing)
+  - [License](#license)
+
 ## Features
 
 - **SQL Query Generation**: Automatically generates SQL queries from natural language descriptions of the data retrieval task.
