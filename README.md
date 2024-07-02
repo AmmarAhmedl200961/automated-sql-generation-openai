@@ -1,4 +1,8 @@
 # Automated SQL Generation with OpenAI
+![GitHub last commit](https://img.shields.io/github/last-commit/AmmarAhmedl200961/automated-sql-generation-openai)
+![GitHub issues](https://img.shields.io/github/issues/AmmarAhmedl200961/automated-sql-generation-openai)
+![GitHub stars](https://img.shields.io/github/stars/AmmarAhmedl200961/automated-sql-generation-openai?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AmmarAhmedl200961/automated-sql-generation-openai?style=social)
 
 This repository contains a project titled "Automated SQL Generation with OpenAI", which leverages OpenAI's GPT models to automatically generate SQL queries based on natural language questions. The core functionality is encapsulated in a Jupyter Notebook, making it a self-contained solution for generating SQL queries for various tasks.
 
@@ -30,13 +34,20 @@ This repository contains a project titled "Automated SQL Generation with OpenAI"
 - Python 3.6 or later
 - Jupyter Notebook or JupyterLab
 - An active OpenAI API key
+  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
+![PrettyTable](https://img.shields.io/badge/PrettyTable-grey?style=for-the-badge&logo=PrettyTable)
+
 
 ### Setup
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/automated-sql-generation-openai.git
+   git clone https://github.com/AmmarAhmedl200961/automated-sql-generation-openai.git
    cd automated-sql-generation-openai
    ```
 
