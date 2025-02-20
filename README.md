@@ -4,7 +4,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/AmmarAhmedl200961/automated-sql-generation-openai?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AmmarAhmedl200961/automated-sql-generation-openai?style=social)
 
-This repository contains a project titled "Automated SQL Generation with OpenAI", which leverages OpenAI's GPT models to automatically generate SQL queries based on natural language questions. The core functionality is encapsulated in a Jupyter Notebook, making it a self-contained solution for generating SQL queries for various tasks.
+This repository contains a project titled **"Automated SQL Generation with OpenAI"**, which leverages OpenAI's GPT models to automatically generate SQL queries based on natural language questions. The core functionality is encapsulated in a Jupyter Notebook, making it a self-contained solution for generating SQL queries for various tasks. **This project was made possible with the collaboration of Aroz.**
+
+GitHub Repository: [Aroz's Repository](https://github.com/arozgithub/automated-sql-generation-openai/blob/main/README.md)
 
 ## Table of Contents
 
@@ -41,7 +43,6 @@ This repository contains a project titled "Automated SQL Generation with OpenAI"
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![PrettyTable](https://img.shields.io/badge/PrettyTable-grey?style=for-the-badge&logo=PrettyTable)
 
-
 ### Setup
 
 1. **Clone the Repository**
@@ -54,21 +55,22 @@ This repository contains a project titled "Automated SQL Generation with OpenAI"
 2. **Install Dependencies**
    
    Open the `Ammar Ahmed.ipynb` notebook and run the `Libraries Setup` cell to install the required Python libraries.
+
 3. **Configure OpenAI API Key**
 
     Create a file named `api.txt` in the project directory and paste your OpenAI API key in it.
+
 4. **Run the Notebook**
    
    Open the `Ammar Ahmed.ipynb` notebook in Jupyter and run the cells to generate SQL queries based on natural language descriptions.
 
-   ## Usage
+## Usage
 
-The notebook is designed to be straightforward:
+The notebook is designed straightforward:
 
 1. **Run the Setup Cell**: This installs all the necessary libraries.
 2. **Set Up Your API Key**: Ensure `api.txt` is present and contains your valid OpenAI API key.
 3. **Use the Provided Functions**: The notebook contains functions to generate SQL queries, execute them, and display results and optimizations.
-
 
 ## Example Table Data
 
@@ -93,3 +95,4 @@ Contributions to the `automated-sql-generation-openai` project are welcome. Plea
 ## License
 
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
+
